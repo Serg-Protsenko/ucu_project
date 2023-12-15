@@ -8,3 +8,4 @@ ultralytics==8.0.31
 opencv-python-headless==4.7.0.68
 altair==4.2.2
 ffmpeg==1.4
+pydub==0.25.1
